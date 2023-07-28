@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:http-docs}/database.sql",
+            "name": "Gamex DEX",
+            "group": "gamex-database"
+        }
+    ]
+}
